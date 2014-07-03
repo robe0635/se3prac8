@@ -1,10 +1,20 @@
 Prac 8 - Jayden Roberts, Jarred Daw, Scott Loader
 
 ##Introduction
-For this practical I worked in a group with two of my friends from first year, Jarred Daw and Scott Loader.
+For this practical I worked in a group with two of my friends from first year, Jarred Daw and Scott Loader to form a group of three, in regards to pair programming the three of us have participated in this method since first year and we now have an understanding of the groups limitations and strengths, and thus we by now we have a strong knowledge in who would be the best suited for each task and how we should go about doing them. All our strengths as a group lie in the programming language java, and as such we have based this practical on the java programming language.
 
-##Advantages of Pair Programmming
+##Advantages of Pair Programming
+We found that there are many advantages in pair programming for our team, with one of the main ones being the ability to delegate the differing parts of the code to the right member of the group, we could assign a part of the code to someone who we believed they it was best suited for based off the specifications and a brainstorming session. if there found to be a team member having any issues with their part we had the confidence to speak up to the group and admit that we were struggling, to which the other members of the group would assist us in that matter. I found that this was a huge advantage to pair programming due to the fact that another person may look at the code in a different light and see the issue, or may simply have a little more knowledge in this matter than the other member.
+
+I also found that many of the pair programming tasks were finished as a faster rate that a task designed for a single person, this was due to the fact that we could break down a large assignment, and delegate sections for us to do in isolation which were completed at a faster rate and once completed could be overviewed when the task was nearing completion.
+after we had completed our individual sections we could put them all together and inspect the whole task as a group, this benefitted our tasks due to the fact that we all code differently, and one team member may be better suited for coding a method than another, this way we can brainstorm in the group to find out which methods may be better suited to different tasks, thus creating stronger and less buggy final result.
 
 ##Downfalls of Pair Programming
+Personally I find that within our group there are very little downfalls, I tend to find that most of our downfalls lie in our individual limited knowledge of the programming language, and the fact that we all tent to have issues using any language altogether. This is due to the fact that we all started programming at the same time in our first year at University. I also believe that this downfall could be easily remedied by improving our programming knowledge on an individual level as well as a whole group. 
 
 ##Conclusion
+I believe pair programming really benefits my working style and our groups working style as it gives us many opportunities that we would not have access to as a individual, with many of them based on the lack of our individual knowledge of coding, we found that as a group we can overcome most of the difficulties we found that as a individual we could not overcome, we also found that i can expand my programming knowledge by just participating in the group, as many of us have strengths in areas other do not.
+
+I believe that i would not change any way in the which myself or the group functions, over the years as friends but also as team mates we have been pair programming for almost the whole duration, and in doing so we have created certain methods that allows us to work on our strengths and program in comfort, due to the fact that we all have a strong confidence that we all can get our parts, and also the whole task completed as a whole.
+
+Would I use pair programming in the future if I was given the chance? Absolutely, I found that I program more comfortably as a group and also found that the final product was of better quality when completed in a group. I found that coding alone I spend a lot more time researching and finding more resources to solve my issues but as a group this can be solved by throwing ideas off the other members and generally my issues are solved right then and there.
